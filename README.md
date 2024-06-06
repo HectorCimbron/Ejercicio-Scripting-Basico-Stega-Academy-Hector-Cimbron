@@ -1,5 +1,8 @@
 # Ejercicio-Scripting-Basico-Stega-Academy-Hector-Cimbron
 Holaaaaa!
+
+La escena está en MyAssets > Scene
+
 Perdón porque no he comentado nada el código, pero creo que no hay ninguna sorpresa frente a lo visto en clase.
 
 Bloqueé el eje de rotación Y del Player porque con algunas colisiones como al saltar encima de los zombis, se quedaba luego girando sobre sí mismo infinitamente.
