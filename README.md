@@ -1,7 +1,7 @@
 # Ejercicio-Scripting-Basico-Stega-Academy-Hector-Cimbron
 Holaaaaa!
 
-La escena está en MyAssets > Scene
+La escena es "Ejercicio 1" y está en Assets > MyAssets > Scenes
 
 Perdón porque no he comentado nada el código, pero creo que no hay ninguna sorpresa frente a lo visto en clase.
 
